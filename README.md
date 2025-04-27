@@ -1,8 +1,11 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Kyungbae's-nl-Adventure&animation=blinking&fontAlign=30,60&fontAlignY=35,55" alt="Kyungbae's Adventure">
 
-  </br></br>
-  
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github.com/Kyungbaee/Kyungbaee/raw/main/assets/Kyungbae%E2%80%99s%20Adventure.gif" width="700px" alt="Kyungbae's Adventure">
+</div>
+
+</br></br>
+
+<div>
   <h3><strong>▶ New Challenger Approaches! </strong></h3>
   <table style="border-collapse: collapse;">
     <tr>
