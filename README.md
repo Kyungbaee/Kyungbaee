@@ -1,9 +1,9 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Kyungbae's%20Adventure&animation=blinking&fontAlign=30,60&fontAlignY=35,55" alt="Kyungbae's Adventure">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=%20%20Kyungbae's%20Adventure&animation=blinking&fontAlign=30,60&fontAlignY=35,55" alt="Kyungbae's Adventure">
 
   </br></br>
   
-  <p><strong>▶ New Challenger Approaches! </strong></p>
+  <h3><strong>▶ New Challenger Approaches! </strong></h3>
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 5px;">👾 <strong>Name</strong></td>
