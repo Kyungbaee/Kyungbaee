@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=%20%20Kyungbae's%20Adventure&animation=blinking&fontAlign=30,60&fontAlignY=35,55" alt="Kyungbae's Adventure">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Kyungbae's-nl-Adventure&animation=blinking&fontAlign=30,60&fontAlignY=35,55" alt="Kyungbae's Adventure">
 
   </br></br>
   
@@ -50,9 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kyungbaee&show_icons=true&theme=gruvbox" alt="Kyungbae's GitHub stats">
 </div>
 
+</br>
+
 <div style="margin-top: 30px;">
   <h3>🎮 Steam Profile</h3>
-    <a href="https://steamcommunity.com/id/kyungbaee" target="_blank">
-      <img src="https://steam-stat.vercel.app/api?profileName=kyungbaee" alt="Steam Profile">
-    </a>
+  <hr>
+  <img src="https://steam-stat.vercel.app/api?profileName=kyungbaee"/>
 </div>
