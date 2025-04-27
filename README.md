@@ -49,3 +49,10 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Kyungbaee&show_icons=true&theme=gruvbox" alt="Kyungbae's GitHub stats">
 </div>
+
+<div style="margin-top: 30px;">
+  <h3>🎮 Steam Profile</h3>
+    <a href="https://steamcommunity.com/id/kyungbaee" target="_blank">
+      <img src="https://steam-stat.vercel.app/api?profileName=kyungbaee" alt="Steam Profile">
+    </a>
+</div>
