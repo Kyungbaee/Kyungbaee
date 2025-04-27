@@ -7,7 +7,7 @@
   <table style="border-collapse: collapse;">
     <tr>
       <td style="padding: 5px;">👾 <strong>Name</strong></td>
-      <td style="padding: 5px;">Kyungbaee</td>
+      <td style="padding: 5px;">Kyungbae Kim</td>
     </tr>
     <tr>
       <td style="padding: 5px;">🛡️ <strong>Class</strong></td>
@@ -31,10 +31,9 @@
   </ul>
 
   <h3>🎯 Current Quests</h3>
-  <ul>
-    <li>Master Unreal Engine 5</li>
-    <li>Build my own multiplayer game</li>
-    <li>Sharpen C++ skills for high-performance programming</li>
+  <ul align="left">
+    <li>Forever Planet - Globe View 기반 2.5D RPG 개발 (2025.04 ~ing)</li>
+    <li>Unnamed Project - 3D 액션 오픈월드 RPG 개발 (2024.12 ~ 2025.02)</li>
   </ul>
 </div>
 
