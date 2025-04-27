@@ -2,14 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Kyungbae's%20Adventure&animation=blinking&fontAlign=30,60&fontAlignY=35,55" alt="Kyungbae's Adventure">
 
   </br></br>
+  
   <p><strong>▶ New Challenger Approaches! </strong></p>
-
-  <ul>
-    <li>👾 <strong>Name:</strong> Kyungbaee</li>
-    <li>🛡️ <strong>Class:</strong> Game Client Programmer</li>
-    <li>📬 <strong>Contact:</strong> kyungbae1010@gmail.com</li>
-    <li>📜 <strong>Quest Journal:</strong> <a href="https://59travel.tistory.com/" target="_blank">MY BLOG</a></li>
-  </ul>
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td style="padding: 5px;">👾 <strong>Name</strong></td>
+      <td style="padding: 5px;">Kyungbaee</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;">🛡️ <strong>Class</strong></td>
+      <td style="padding: 5px;">Game Client Programmer</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;">📬 <strong>Contact</strong></td>
+      <td style="padding: 5px;">kyungbae1010@gmail.com</td>
+    </tr>
+    <tr>
+      <td style="padding: 5px;">📜 <strong>Quest Journal</strong></td>
+      <td style="padding: 5px;"><a href="https://59travel.tistory.com/" target="_blank">MY BLOG</a></td>
+    </tr>
+  </table>
 
   <h3>⚔️ Skills</h3>
   <ul>
