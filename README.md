@@ -1,6 +1,6 @@
 
 <div align="center" style="margin-top: 30px;">
-  <img src="https://github.com/Kyungbaee/Kyungbaee/raw/main/assets/Kyungbae%E2%80%99s%20Adventure.gif" width="700px" alt="Kyungbae's Adventure">
+  <img src="https://github.com/Kyungbaee/Kyungbaee/raw/main/assets/Kyungbae%E2%80%99s%20Adventure_upscaling.gif" width="700px" alt="Kyungbae's Adventure">
 </div>
 
 </br></br>
