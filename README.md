@@ -46,10 +46,7 @@
   <h3>🏆 Achievements</h3>
   <hr>
 
-  <a href="https://solved.ac/kyungbaee/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungbaee" alt="Solved.ac Profile">
-  </a>
-
+  <img src="https://topsolved.mayonedev.com/api/boj?handle=kyungbaee&row=25">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyungbaee&show_icons=true&theme=gruvbox" alt="Kyungbae's GitHub stats">
 </div>
 
