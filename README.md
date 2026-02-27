@@ -72,7 +72,6 @@
   <hr>
 
   <img src="https://topsolved.mayonedev.com/api/boj?handle=kyungbaee&row=25">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyungbaee&show_icons=true&theme=gruvbox" alt="Kyungbae's GitHub stats">
 </div>
 
 </br>
